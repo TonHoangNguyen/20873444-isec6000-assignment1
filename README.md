@@ -33,7 +33,7 @@ git clone https://github.com/TonHoangNguyen/20873444-isec6000-assignment1.git --
 
 2. Go to the cloned directory:
 ```shell
-cd saleor-platform
+cd 20873444-isec6000-assignment1
 ```
 
 3. Build the application:
